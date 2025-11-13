@@ -94,19 +94,3 @@ This repository contains a list of bugs found on the Academy Bugs website. These
 
 ![bug2ComentAdded_page-0001](https://github.com/user-attachments/assets/da761d4e-8034-4efa-a955-ce1f10ee10c7)
 ![bug2ComentAdded_page-0002](https://github.com/user-attachments/assets/83fba570-ccf6-4ff3-a666-fed251bbcb8e)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
